@@ -1,2 +1,2 @@
 # sfg-pet-clinic
-SFG Pet Clinic
+Spring Framework Guru Pet Clinic - the project from Udemy Spring Framework courses.
